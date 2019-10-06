@@ -1,0 +1,15 @@
+<ActionBar title="Bureau 401 Message system" class="action-bar">
+</ActionBar>
+
+<GridLayout>
+    <ScrollView class="page">
+        <StackLayout class="home-panel">
+            <!--Add your page content here-->
+           
+            <StackLayout *ngFor="let message of messageList" class="list-group-item">
+                <label class="messageCard" [textWrap] = "true" [text]="message"></label>
+            </StackLayout>
+
+        </StackLayout>
+    </ScrollView>
+</GridLayout>
