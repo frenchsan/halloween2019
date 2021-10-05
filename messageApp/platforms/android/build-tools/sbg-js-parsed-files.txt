@@ -1,5 +1,0 @@
-E:\frenchsan\Documents\nativescript\messageApp\NSPlayground (2)\platforms\android\app\src\main\assets\app\0.js
-E:\frenchsan\Documents\nativescript\messageApp\NSPlayground (2)\platforms\android\app\src\main\assets\app\bundle.js
-E:\frenchsan\Documents\nativescript\messageApp\NSPlayground (2)\platforms\android\app\src\main\assets\app\runtime.js
-E:\frenchsan\Documents\nativescript\messageApp\NSPlayground (2)\platforms\android\app\src\main\assets\app\tns-java-classes.js
-E:\frenchsan\Documents\nativescript\messageApp\NSPlayground (2)\platforms\android\app\src\main\assets\app\vendor.js
