@@ -1,0 +1,7 @@
+{
+	"name": "migration",
+	"paths": [
+		"app\\package.json",
+		"app\\package.json"
+	]
+}
